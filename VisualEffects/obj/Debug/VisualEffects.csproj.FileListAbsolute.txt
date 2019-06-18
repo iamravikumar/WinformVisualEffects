@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\VisualEffects_1.2\VisualEffects\bin\Debug\VisualEffects.dll
+C:\Users\user\Desktop\VisualEffects_1.2\VisualEffects\bin\Debug\VisualEffects.pdb
+C:\Users\user\Desktop\VisualEffects_1.2\VisualEffects\obj\Debug\VisualEffects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VisualEffects_1.2\VisualEffects\obj\Debug\VisualEffects.dll
+C:\Users\user\Desktop\VisualEffects_1.2\VisualEffects\obj\Debug\VisualEffects.pdb
